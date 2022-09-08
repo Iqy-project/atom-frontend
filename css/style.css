@@ -1,0 +1,22 @@
+.product-list .product{
+    min-height:230px;
+    background: #ececec;
+}
+
+.product-list .product .product-title{
+    font-size: 18px;
+}
+
+.result-list{
+    background-color: #ececec;
+    height: 95vh;
+}
+
+.cart-list{
+    overflow: auto;
+    height: 70%;
+}
+
+.my-spinner{
+    width: 150px;
+}
